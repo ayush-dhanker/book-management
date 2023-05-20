@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.search-box {
+  .form-control {
+    border-radius: 30px;
+    padding-left: 40px;
+  }
+  .search-icon {
+    font-size: 16px;
+    position: absolute;
+    left: 13px;
+    top: 0;
+    line-height: 38px;
+  }
+}
+
+.me-2 {
+  margin-right: 2rem;
+}
+
+.mb-2 {
+  margin-bottom: 2rem;
+}
+
+.mb-3 {
+  margin-bottom: 3rem;
+}
